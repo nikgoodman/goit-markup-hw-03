@@ -1,0 +1,36 @@
+body {
+   font-family: "Playfair Display", serif;
+}
+
+.text-photo {
+   font-family: "Ubuntu", sans-serif;
+   color: #c7c1b6;
+}
+
+.nav-list {
+   list-style: none;
+}
+
+.headtex {
+   font-size: 14px;
+   color: rgb(98, 98, 98);
+   text-transform: uppercase;
+   line-height: 1.714;
+   text-align: center;
+   text-decoration: none;
+}
+
+.headtex:hover,
+.headtex:focus {
+   color: #03a9f4;
+}
+
+.title-article {
+   color: #626262;
+   font-size: 30px;
+   line-height: 1.2;
+}
+
+.main ul {
+   list-style: none;
+}
